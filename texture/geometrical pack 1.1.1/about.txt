@@ -1,0 +1,20 @@
+--- Thank you for downloading the pack :D ---
+
+everything is sorted in folder so you can use only texture that you need.
+
+all textures are made manually by Cristal (elisei12131) and are free to use. crediting me is totally optional. 
+
+also the texture are flat-colored because to be more flexible adding your custom texture.
+
+Features:
+- Blocks
+- Block Models
+- Cracks
+- Shadows
+- Items
+- Patterns
+- Symbols
+
+Some textures has .kra version of the file for editing with the krita program.
+
+Current Version: 1.1.1
