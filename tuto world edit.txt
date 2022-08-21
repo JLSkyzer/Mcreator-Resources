@@ -1,0 +1,2 @@
+Pour étendre une selection genre un couloir avec le patern réspecter:
+//stack
