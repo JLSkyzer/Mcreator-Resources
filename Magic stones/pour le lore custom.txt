@@ -1,0 +1,10 @@
+import net.minecraft.util.text.StringTextComponent;
+import net.minecraft.item.ItemStack;
+
+itemstack.getOrCreateTag().getString("lore")
+
+
+en cas de bug ajouter au dessus : 
+
+Entity entity = (Entity) dependencies.get("entity");
+ItemStack itemstack = (ItemStack) dependencies.get("itemstack");
